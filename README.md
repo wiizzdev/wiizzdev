@@ -14,15 +14,11 @@
 
 ### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <p align="center">
-  <a href="https://github.com/wiizzdev?tab=repositories">
-<img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord">
-    </a>
+  <a href="https://github.com/wiizzdev%22%3E
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiizzdev&show_icons=true&theme=react&include_all_commits=true&locale=fr%22/%3E
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=react%22/%3E
+  </a>
 </p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=nord"/>
-</p>
-
 -----
 
 ### <p align="center">🙉 &nbsp;Visiteurs</p>
