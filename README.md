@@ -1,8 +1,3 @@
-<!--<p align="center">
-  <img width="150px" src="https://i.imgur.com/r9ldiQH.png" align="center" alt="G_Corporation" />
-  <h2 align="center">G_Corporation</h2>
-</p>
--->
 <p align="center">
 <img src="https://i.imgur.com/r9ldiQH.png", width="150", height="150">
 </p>
@@ -25,15 +20,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=nord"/>
 </p>
-
-<!--
------
-
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/658236178268684291/912112359655501874/ppgta.png", width="400", height="400">
-</p>
--->
------
 
 ### <p align="center">🙉 &nbsp;Visiteurs</p>
 <br>
