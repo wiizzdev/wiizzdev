@@ -7,8 +7,8 @@
 -----
 
 <p align="center">
-  <a href="https://github.com/GarrysD?tab=repositories">
-<img  src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark">
+  <a href="https://github.com/wiizzdev?tab=repositories">
+<img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=onedark">
     </a>
 </p>
 
