@@ -1,3 +1,4 @@
+### <p align="center">wiizz - G_Corporation
 <p align="center">
 <img src="https://i.imgur.com/r9ldiQH.png", width="150", height="150">
 </p>
@@ -11,6 +12,7 @@
 
 -----
 
+### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
 <p align="center">
   <a href="https://github.com/wiizzdev?tab=repositories">
 <img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord">
@@ -20,6 +22,8 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=nord"/>
 </p>
+
+-----
 
 ### <p align="center">🙉 &nbsp;Visiteurs</p>
 <br>
