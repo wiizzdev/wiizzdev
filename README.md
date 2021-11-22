@@ -11,8 +11,6 @@
   <h2 align="center">G_Corporation</h2>
 </p>
 
------
-
 <p align="center">
   <a href="https://github.com/wiizzdev?tab=repositories">
 <img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=nord">
