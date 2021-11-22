@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/wiizzdev?tab=repositories">
-    <img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=react" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=react">
+    <img  src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=react" data-canonical-src="https://github-readme-stats.vercel.app/api?username=wiizzdev&hide=issues&show_icons=true&theme=react">
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=react"/>
   </a>
 </p>
