@@ -7,6 +7,15 @@
 -----
 
 <p align="center">
+  <a href="https://github.com/GarrysD?tab=repositories">
+<img  src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark" data-canonical-src="https://github-readme-stats.vercel.app/api?username=GarrysD&hide=issues&show_icons=true&theme=onedark">
+    </a>
+</p>
+
+
+-----
+
+<p align="center">
 <img src="https://cdn.discordapp.com/attachments/658236178268684291/912112359655501874/ppgta.png", width="400", height="400">
 </p>
 
