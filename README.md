@@ -1,4 +1,4 @@
- # wiizz  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="G_Corporation">
+ # wiizz - G_Coporation <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="G_Corporation">
 
  <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
