@@ -22,3 +22,9 @@
   
   ![Snake animation](https://github.com/wiizzdev/wiizzdev/blob/main/workflows/games_snake.svg)
 </div>
+
+ ### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img height="40em" src="https://profile-counter.glitch.me/wiizzdev/count.svg" />
+</p>
