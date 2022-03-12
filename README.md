@@ -1,9 +1,11 @@
  # wiizz  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="G_Corporation">
-<div align="center">
-  <a href="https://github.com/wiizzdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wiizzdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiizzdev&layout=compact&langs_count=7&theme=dark "/>
-</div>
+
+ <p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiizzdev&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhz542165&theme=react"/>
+  </a>
+</p>
   
   ##
  
