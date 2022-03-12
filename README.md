@@ -32,7 +32,3 @@
 <p align="center">
   <img height="40em" src="https://profile-counter.glitch.me/wiizzdev/count.svg" />
 </p>
-
-<!--
-- [![paypal.me/KharmaGarrys](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/KharmaGarrys)
--->
