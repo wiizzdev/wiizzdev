@@ -3,7 +3,6 @@
  <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wiizzdev&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiizzdev=react"/> -->
   </a>
 </p>
   
