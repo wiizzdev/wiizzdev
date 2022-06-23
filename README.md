@@ -17,7 +17,7 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCzQJfF4N7fvi66EkRJvjwOQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCbsHuZdqB0VWn7auGKw36KA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/VpYP58ZjmD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/wiizzdev/wiizzdev/blob/main/workflows/games_snake.svg)
